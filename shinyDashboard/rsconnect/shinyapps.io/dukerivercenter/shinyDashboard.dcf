@@ -1,0 +1,13 @@
+name: shinyDashboard
+title: shinyDashboard
+username:
+account: dukerivercenter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6733670
+bundleId: 6161958
+url: https://dukerivercenter.shinyapps.io/shinyDashboard/
+when: 1659535991.83899
+lastSyncTime: 1659535991.83901
+asMultiple: FALSE
+asStatic: FALSE
