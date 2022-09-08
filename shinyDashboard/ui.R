@@ -330,7 +330,7 @@ shinyUI(fluidPage(
                          box(width = "100%", background = "navy",
                              h1("Ryan Yu"),
                              tags$hr(style = "width: 30%;height: 2px;"),
-                             p("Ryan is a rising sophomore at Duke University who has taken coursework in mathematics, computer science, and statistical science. In addition to these areas, he is exploring finance and economics. Ryan is planning on declaring for a major in Computer Science and Statistics in the Spring of 2023." ,style="text-align:left;padding:5px;border-radius:10px"))),
+                             p("Ryan is an undergraduate at Duke University who has taken coursework in mathematics, computer science, and statistical science. In addition to these areas, he is exploring finance and economics. Ryan is planning on declaring for a major in Computer Science and Statistics, in the class of 2025." ,style="text-align:left;padding:5px;border-radius:10px"))),
                   column(width=1),
                   ),
                 tags$h2("Acknowledgments",style="text-align: center"),
